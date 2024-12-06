@@ -3,6 +3,7 @@ body{
     background-color: #f7f7f7;
     margin: 0;
     padding: 0;
+    
 }
 
 header {
@@ -113,6 +114,7 @@ input, select, textarea{
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
+    
 }
 
 button{
@@ -127,3 +129,4 @@ button{
 button:hover{
     background-color: #3e8e41;
 }
+
